@@ -21,4 +21,4 @@ Here's a collection of tools and libraries that can help you in your AI projects
 - **Pandas**: A fast, powerful, flexible, and easy-to-use open-source data analysis and manipulation library.
 - **NumPy**: A fundamental package for scientific computing with Python.
 
-[Back to Home](index.md)
+[Back to Home](../index.md)
