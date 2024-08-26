@@ -3,16 +3,19 @@ layout: default
 title: Home
 ---
 
-# Welcome to IA Resources
+# Bienvenue sur IA Resources
 
-Welcome to **IA Resources**, a curated collection of resources for AI research and development. Whether you're a seasoned professional or just getting started in the field, you'll find valuable information, tutorials, and tools to enhance your understanding and work in artificial intelligence.
+Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but est de vous fournir des ressources dans 3 catégories:
+- Compréhension des technologies IA
+- Développement de ces technologies
+- Dernières ressources / les plus intéréssantes / gratuit
+
 
 ## Explore Our Resources
 
-- [Getting Started with AI](/getting-started/)
-- [Advanced Topics](/sub/advanced-topics.md)
-- [Tools and Libraries](/_pages/tools-and-libraries.md)
-- [About Us](about.md)
+- [Technologies IA](/pages/technologies.md)
+- [Générique Kaggle ](/pages/kaggle.md)
+- [Accéder à des GPUs](/pages/gpu.md)
+- [Se tenir informé](/pages/actualite.md)
 
-Feel free to browse through our collection and contribute your own insights. We are constantly updating our content to reflect the latest advancements in the field.
-
+N'hésitez pas à nous contacter en cas d'erreur/oubli/suggestion.
