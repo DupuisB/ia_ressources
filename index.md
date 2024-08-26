@@ -9,10 +9,10 @@ Welcome to **IA Resources**, a curated collection of resources for AI research a
 
 ## Explore Our Resources
 
-- [Getting Started with AI](/_pages/getting-started.md)
+- [Getting Started with AI](/getting-started/)
 - [Advanced Topics](/_pages/advanced-topics.md)
 - [Tools and Libraries](/_pages/tools-and-libraries.md)
-- [About Us](/_pages/about.md)
+- [About Us](about.md)
 
 Feel free to browse through our collection and contribute your own insights. We are constantly updating our content to reflect the latest advancements in the field.
 

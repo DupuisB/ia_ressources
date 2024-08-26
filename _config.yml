@@ -6,7 +6,7 @@ baseurl: "/ia_ressources" # Repository name
 url: "https://EnderBenjy.github.io" # Your GitHub Pages URL
 
 # Enable the Cayman theme
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Plugins
 plugins:
@@ -19,6 +19,7 @@ plugins:
   - jemoji # Emojis in markdown
   - jekyll-scholar # LaTeX support for citations and references
   - jekyll-katex # LaTeX support with KaTeX
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Markdown settings
 markdown: kramdown

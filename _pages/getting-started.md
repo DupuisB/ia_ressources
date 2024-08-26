@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Getting Started with AI
+permalink: /getting_started/
 ---
 
 # Getting Started with AI
