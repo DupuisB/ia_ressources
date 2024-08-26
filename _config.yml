@@ -3,7 +3,7 @@ title: IA Resources
 description: "A collection of resources for AI research and development"
 author: EnderBenjy
 baseurl: "/ia_ressources" # Repository name
-url: "https://EnderBenjy.github.io" # Your GitHub Pages URL
+url: "https://dupuisb.github.io" # Your GitHub Pages URL
 
 # Enable the Cayman theme
 remote_theme: pages-themes/cayman@v0.2.0
@@ -38,10 +38,6 @@ show_excerpts: true
 paginate: 10
 paginate_path: "/page:num/"
 
-# Social links (Optional)
-github_username: EnderBenjy
-twitter_username: EnderBenjy
-
 # Customization options
 # Modify these colors to customize the theme further
 # Customize the theme's colors by uncommenting and setting these variables
@@ -50,6 +46,3 @@ twitter_username: EnderBenjy
 #   background: "#ffffff"
 #   link: "#007bff"
 #   sidebar: "#f4f4f4"
-
-# Footer settings
-footer_text: "© 2024 EnderBenjy. All rights reserved."
