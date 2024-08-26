@@ -1,5 +1,54 @@
-title: Ressources IA
-show_downloads: true
-remote_theme: pages-themes/cayman@v0.2.0
+# Basic settings
+title: IA Resources
+description: "A collection of resources for AI research and development"
+author: EnderBenjy
+baseurl: "/ia_ressources" # Repository name
+url: "https://EnderBenjy.github.io" # Your GitHub Pages URL
+
+# Enable the Cayman theme
+theme: jekyll-theme-cayman
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+  - jekyll-toc # Table of contents (TOC) generator
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji # Emojis in markdown
+  - jekyll-scholar # LaTeX support for citations and references
+  - jekyll-katex # LaTeX support with KaTeX
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: python
+    line_numbers: true
+  math_engine: katex # Use KaTeX for LaTeX rendering
+
+# Sidebar and navigation settings
+show_sidebar: true
+show_excerpts: true
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Social links (Optional)
+github_username: EnderBenjy
+twitter_username: EnderBenjy
+
+# Customization options
+# Modify these colors to customize the theme further
+# Customize the theme's colors by uncommenting and setting these variables
+# colors:
+#   text: "#333333"
+#   background: "#ffffff"
+#   link: "#007bff"
+#   sidebar: "#f4f4f4"
+
+# Footer settings
+footer_text: "© 2024 EnderBenjy. All rights reserved."
