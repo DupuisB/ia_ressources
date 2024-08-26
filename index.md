@@ -13,7 +13,7 @@ Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but
 
 ## Nos Ressources
 
-- [Technologies IA](/pages/technologies.md)
+- [Concepts et technologies IA](/pages/concepts.md)
 - [Générique Kaggle ](/pages/kaggle.md)
 - [Accéder à des GPUs](/pages/gpu.md)
 - [Se tenir informé](/pages/actualite.md)
