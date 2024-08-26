@@ -1,7 +1,12 @@
 ---
 layout: default
-title: About Us
+title: Technologies IA
 ---
+
+## Summary
+<!-- Add a summary here -->
+* TOC
+{:toc}
 
 # About IA Resources
 

@@ -11,7 +11,7 @@ Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but
 - Dernières ressources / les plus intéréssantes / gratuit
 
 
-## Explore Our Resources
+## Nos Ressources
 
 - [Technologies IA](/pages/technologies.md)
 - [Générique Kaggle ](/pages/kaggle.md)
