@@ -89,13 +89,19 @@ Tous ces assistants sont basés sur des modèles de prédiction de texte (à par
 Pour mieux comprendre ces modèles de prédiction de texte, on va se concentrer sur **les modèles GPT (Generative Pre-trained Transformer)**, à la base de ChatGPT.  
 
 ### Explications
-Les explications les plus exhaustives sur les LLM sont souvent données dans les articles de recherche qui les décrivent ([GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165v4), *notez que le code source de GPT-3 et 4 est privé*). Cependant, ces articles sont souvent très techniques et peu accessibles aux débutants. Les vidéos de [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) sont une bonne introduction. 
+Les explications les plus exhaustives sur les LLM sont souvent données dans les articles de recherche qui les décrivent ([GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165v4), *notez que le code source de GPT-3 et 4 est privé*). Cependant, ces articles sont souvent très techniques et peu accessibles aux débutants. Les vidéos de [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (5 et 6) sont une bonne introduction. 
 
 Pour aller plus loin, la chaîne youtube de **Andrej Karpathy** (cofondateur de OpenAI, ex-directeur de l'IA de Tesla) est une mine d'or pour comprendre l'implémentation des LLM. Dans une série de 3 vidéos (10 heures quand même), il reconstruit nottament entièrement GPT-2 à partir de zéro, en expliquant chaque étape et chaque choix de conception.
 - [Partie 1](https://www.youtube.com/watch?v=kCc8FmEb1nY) (*1h56*) : Version naïve d'un GPT. Réalisation d'un modèle prédisant du texte cohérent (i.e. mieux que aléatoire).
 - [Partie 2](https://www.youtube.com/watch?v=SGZ6BttHMPw) (*2:13*) : Présentation d'un tokenizer, cette vidéo est intéréssante, mais n'est pas nécéssaire et peut être sautée.
 - [Partie 3](https://www.youtube.com/watch?v=3MqJzMvHE3E) (*4:01*) : Réalisation d'un modèle de prédiction de texte avec des performances proches de GPT-2.
 
-> Il a également réalisé une [**conférence**](https://www.youtube.com/watch?v=zjkBMFhNj_g) d'une heure se focalisant sur les LLM. Il y présente à la fois la réalité des modèles actuels, des ordres de grandeurs (temps, argent), les limites actuelles et les perspectives d'avenir. **C'est un tour d'horizon très complet de la situation actuelle des LLM**, et elle peut être écoutée en audio uniquement pour les plus pressés. Le visionnage des 3 vidéos précédentes n'est pas nécéssaire.
+> Il a également réalisé une [**conférence**](https://www.youtube.com/watch?v=zjkBMFhNj_g) d'une heure se focalisant sur les LLM. Il y présente à la fois la réalité des modèles actuels, des ordres de grandeurs (temps, argent), les limites actuelles (jailbreak, performances) et les perspectives d'avenir. **C'est un tour d'horizon très complet de la situation actuelle des LLM**, et elle peut être écoutée en audio uniquement pour les plus pressés. Le visionnage des 3 vidéos précédentes n'est pas nécéssaire.
+
+## TODO
+- RL (Reinforcement Learning) : DQN, PPO en deep learning, Q-learning, SARSA en classique (+ monte carlo, alpha beta pruning, algo génétiques, ... ?)
+- Tout ce qui est génération d'image : GAN, VAE, Diffusion models (LDM), (+ DALLE-E 1 ?)
+- (Autres architectures de réseaux de neurones : RNN, LSTM)
+
 
 [Back to Home](../index.md)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools and Libraries
+title: Se mettre au développement
 ---
 
 # AI Tools and Libraries
