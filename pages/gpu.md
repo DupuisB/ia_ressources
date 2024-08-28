@@ -146,7 +146,7 @@ Comme service cloud professionnel, nous vous recommandons [**Lambda Labs**](http
 Le service est également l'un des plus simples à mettre en place (interface web minimaliste), et est très fiable.  
 Un désavantage que nous avons pu constater et que la vitesse de transfert de données est parfois lente (40MB/s), ce qui peut être un problème pour les tâches nécessitant de transférer de grandes quantités de données.
 
-![Lambda Labs Pricing](../assets/images/lambda__pricing.png)
+![Lambda Labs Pricing](../assets/images/lambda_pricing.png)
 
 Notez également que, bien que nous n'y ayons jamais eu recours, les retours sur le service client sont variables.
 

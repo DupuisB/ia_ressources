@@ -3,3 +3,34 @@
 
 // Import the main SCSS file from the theme
 @import "{{ site.theme }}";
+
+/* Simplify the code block design */
+pre, code {
+    background: #f8f8f8; /* Light gray background */
+    border: none;        /* Remove border */
+    border-radius: 4px;  /* Rounded corners */
+    padding: 10px;       /* Add some padding */
+    font-size: 90%;      /* Slightly smaller font size */
+    color: #333;         /* Dark text color */
+    overflow-x: auto;    /* Allow horizontal scrolling */
+}
+
+/* Remove line numbers if present */
+pre {
+    counter-reset: linenumber;  /* Reset the line counter */
+    padding-left: 10px;         /* Adjust padding if necessary */
+}
+
+pre code {
+    display: block;             /* Ensure code blocks take full width */
+    white-space: pre-wrap;      /* Prevent text overflow */
+}
+
+/* Minimalistic styling */
+code {
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 2px 4px;
+    font-size: 90%;
+    border-radius: 4px;
+}
