@@ -3,6 +3,10 @@ layout: default
 title: Accéder à des GPUs
 ---
 
+```bash
+ssh <votre_login>@gpu1.enst.fr
+```
+
 <!-- Table of content -->
 * TOC
 {:toc}
@@ -54,7 +58,7 @@ Le département INFRES met à dispositions des étudiants et chercheurs quelques
 
 Les GPUs sont accesibles **uniquement depuis le réseau interne**. Si vous souhaitez y accéder de l'exterieur, il vous faudra **[utiliser le vpn de l'école]**(https://eole.telecom-paris.fr/vos-services/services-numeriques/connexions-aux-reseaux#exterieur), simple d'installation, c'est une très bonne solution.
 
-Une fois le vpn installé, vous pouvez vous connecter aux GPUs en utilisant ssh en utilisant votre login et mot de passe de l'école. Par exemple, pour vous connecter au gpu1, utilisez la commande suivante:
+Une fois le vpn installé, vous pouvez vous connecter aux GPUs en utilisant ssh en utilisant votre login et mot de passe de l'école. Par exemple, pour vous connecter au gpu1, utilisez la commande suivante:  
 
 ```bash
 ssh <votre_login>@gpu1.enst.fr
