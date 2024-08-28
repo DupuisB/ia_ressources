@@ -3,11 +3,6 @@ layout: default
 title: Accéder à des GPUs
 ---
 
-```bash
-ssh <votre_login>@gpu1.enst.fr
-```
-
-<!-- Table of content -->
 * TOC
 {:toc}
 
@@ -86,7 +81,7 @@ Si certains ne sont pas utilisés, choisissez en **un ou deux, pas plus** et ent
 > Pour les utilisations de plus de 3h, la DSI demande d'utiliser un seul GPU.
 
 ```bash
-export CUDA_VISIBLE_DEVICES=0,1 # Pour réserver les GPUs 0 et 1, uniquement =0 pour le premier GPU
+export CUDA_VISIBLE_DEVICES=0,1 # Pour réserver les GPUs 0 et 1
 ```
 
 Une fois votre script lancé, vous pouvez voir l'utilisation de votre GPU en temps réel en retapant:
