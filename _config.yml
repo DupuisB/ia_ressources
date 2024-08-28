@@ -13,7 +13,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc # Table of contents (TOC) generator
   - jekyll-include-cache
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jemoji # Emojis in markdown
@@ -22,13 +21,8 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    default_lang: python
-    line_numbers: true
-  math_engine: katex # Use KaTeX for LaTeX rendering
+markdown: 
+  math_engine: katex
 
 # Sidebar and navigation settings
 show_sidebar: true
