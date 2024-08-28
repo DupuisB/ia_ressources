@@ -23,6 +23,7 @@ plugins:
 # Markdown settings
 markdown: 
   math_engine: katex
+highlighter: rouge
 
 # Sidebar and navigation settings
 show_sidebar: true
