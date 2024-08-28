@@ -17,5 +17,6 @@ Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but
 - [Se mettre au développement](/pages/dev.md)
 - [Accéder à des GPUs](/pages/gpu.md)
 - [Se tenir informé](/pages/actualite.md)
+- [Page de test](/pages/test.md)
 
 N'hésitez pas à nous contacter en cas d'erreur/oubli/suggestion.
