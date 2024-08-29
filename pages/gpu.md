@@ -141,7 +141,7 @@ Si vous avez des besoin précis et que vous souhaitez comparer les prix, vous po
 Si vos besoins sont moins précis, voici nos recommandations:  
 
 ## Lambda Labs
-Comme service cloud professionnel, nous vous recommandons [**Lambda Labs**](https://lambdalabs.com/), qui propose des machines puissantes à des prix compétitifs (voir ci-dessous). Un de ses avantages est sa capacité à **proposer des clusters de GPUs déja configurés** pour tourner efficacement dans la plupart des cas. Si vos besoins ne le demande pas, nous vous conseillons de rester sur des GPUs individuels, une architecture plus simple étant souvent moins sujette aux erreurs.  
+Comme service cloud professionnel, nous vous recommandons [**Lambda Labs**](https://lambdalabs.com/), qui propose des machines puissantes à des prix compétitifs (voir ci-dessous), déjà configurée pour les principales bibliothèques de deep learning. Un de ses avantages est sa capacité à **proposer des clusters de GPUs déja configurés** pour tourner efficacement dans la plupart des cas. Si vos besoins ne le demande pas, nous vous conseillons de rester sur des GPUs individuels, une architecture plus simple étant souvent moins sujette aux erreurs.  
 Le service est également l'un des plus simples à mettre en place (interface web minimaliste), et est très fiable.  
 Un désavantage que nous avons pu constater et que la vitesse de transfert de données est parfois lente (40MB/s), ce qui peut être un problème pour les tâches nécessitant de transférer de grandes quantités de données.
 
@@ -158,6 +158,9 @@ Sur la page de choix de la machine, vous pouvez voir un certain nombre d'informa
 
 Faites nottament attention au champ `max duration` qui indique la durée maximale pour laquelle vous pouvez louer une machine. Vous pouvez essayer de renouveler la location, mais partez du principe que la machine s'arrêtera à la fin de la durée indiquée et que vous perdrez toutes les données non sauvegardées.
 
+> Un avantage de Vast.ai est le choix d'[environnement docker spécifiques](https://cloud.vast.ai/templates/) lors de la location d'une machine. Ainsi, vous pouvez installer une template prête à faire tourner Stable Diffusion ou des renders Blender ou plus simplement des environnement pytorch ou tensorflow. Certaines utilisations disposent de tutoriels pour vous aider à démarrer, disponibles [ici](https://vast.ai/docs/overview/introduction), dans la partie *Use Cases*.
+
+Pour commencer, vous pouvez suivre le tutoriel [ici](https://vast.ai/docs/getting-started).
 
 
 

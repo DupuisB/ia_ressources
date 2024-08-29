@@ -20,3 +20,7 @@ Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but
 - [Page de test](/pages/test.md)
 
 N'hésitez pas à nous contacter en cas d'erreur/oubli/suggestion.
+
+- [Todo](/pages/todo.md)
+
+[Back to Home](../index.md)
