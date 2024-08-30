@@ -16,7 +16,7 @@ Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but
 - [Concepts et technologies IA](/pages/concepts.md)
 - [Se mettre au développement](/pages/dev.md)
 - [Accéder à des GPUs](/pages/gpu.md)
-- [Se tenir informé](/pages/actualite.md)
+- [Meilleurs outils IA](/pages/outils.md)
 - [Page de test](/pages/test.md)
 
 N'hésitez pas à nous contacter en cas d'erreur/oubli/suggestion.

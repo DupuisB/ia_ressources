@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Se tenir informé
+title: Meilleurs outils IA
 ---
 
 <!-- Table of content -->

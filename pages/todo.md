@@ -16,6 +16,6 @@ title: Choses à faire
 # [Accéder à des GPUs](/pages/gpu.md)
 
 
-# [Se tenir informé](/pages/actualite.md)
+# [Meilleurs outils IA](/pages/outils.md)
 
 [Back to Home](../index.md)
