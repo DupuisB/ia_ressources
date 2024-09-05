@@ -163,7 +163,6 @@ Faites nottament attention au champ `max duration` qui indique la durée maximal
 Pour commencer, vous pouvez suivre le tutoriel [ici](https://vast.ai/docs/getting-started).
 
 
-
 # [Etat du marché](#etat-du-marché)
 Illustration des revenus de NVIDIA par trimestre, en milliards de dollars:
 ![NVIDIA Revenue](../assets/images/nvidia_revenue.jpeg)

@@ -1,1 +1,1 @@
-Generic website for now
+Pas grand chose pour l'instant.

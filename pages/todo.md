@@ -2,6 +2,7 @@
 layout: default
 title: Choses à faire
 ---
+Liste de choses à faire :
 
 # [Concepts et technologies IA](/pages/concepts.md)
 - RL (Reinforcement Learning) : DQN, PPO en deep learning, Q-learning, SARSA en classique (+ monte carlo, alpha beta pruning, algo génétiques, ... ?)
@@ -14,8 +15,9 @@ title: Choses à faire
 - Ajouter les meilleurs CNN (ResNet, EfficientNet, ...), deja dans la page Concepts
 
 # [Accéder à des GPUs](/pages/gpu.md)
-
+- Bonus: etat du marché (pourquoi nvidia est si dominant, est-ce que ca va changer) ?
 
 # [Meilleurs outils IA](/pages/outils.md)
+- Tout
 
 [Back to Home](../index.md)

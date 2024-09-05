@@ -1,6 +1,6 @@
 # Basic settings
 title: IA Resources
-description: "A collection of resources for AI research and development"
+description: "Une collection de ressources pour l'apprentissage et le développement d'outils IA"
 author: EnderBenjy
 baseurl: "/ia_ressources" # Repository name
 url: "https://dupuisb.github.io" # Your GitHub Pages URL
@@ -15,29 +15,18 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-feed
-  - jemoji # Emojis in markdown
+  - jemoji # Emojis
   - jekyll-scholar # LaTeX support for citations and references
   - jekyll-katex # LaTeX support with KaTeX
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
 
-# Markdown settings
 markdown: 
   math_engine: katex
 highlighter: rouge
 
-# Sidebar and navigation settings
 show_sidebar: true
 show_excerpts: true
 
-# Pagination
 paginate: 10
 paginate_path: "/page:num/"
 
-# Customization options
-# Modify these colors to customize the theme further
-# Customize the theme's colors by uncommenting and setting these variables
-# colors:
-#   text: "#333333"
-#   background: "#ffffff"
-#   link: "#007bff"
-#   sidebar: "#f4f4f4"

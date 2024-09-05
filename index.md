@@ -3,13 +3,12 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue sur IA Resources
+# Bienvenue
 
-Bienvenue sur **IA Resources**, une liste de ressources relative à l'IA. Le but est de vous fournir des ressources dans 3 catégories:
+Bienvenue sur ce site web. Le but de ce site est de servir de **point d'entrée pour découvrir des ressources liées à l'IA** dans ces catégories :
 - Compréhension des technologies IA
 - Développement de ces technologies
-- Dernières ressources / les plus intéréssantes / gratuit
-
+- Dernières ressources / les plus intéréssantes / gratuit ?
 
 ## Nos Ressources
 
