@@ -9,7 +9,7 @@ title: Se mettre au développement
 
 # **Introduction**
 
-Se lancer dans le domaine de l'IA peut sembler intimidant. La complexité des approches actuelles (qui ne le sont pas tant que ca pour la plupart) peuvent donner l'illusion que le moindre projet est compliqué. Et même sans cette impression, il semble, au vu des TIPEs de certains de nos camarades, qu'il faut consacrer à minima quelques dixaines d'heures avant de pouvoir bien apréhender les premiers concepts. En réalité, **pour tous les élèves de Télécom,** plus complétement novice en mathématiques et en informatique, **il est possible de comprendre et de réaliser ses premiers modèles (par exemple de reconnaissance d'image) en seulement quelques heures sans connaissances préalables.**
+Se lancer dans le domaine de l'IA peut sembler intimidant. La complexité des approches actuelles (qui ne le sont pas tant que ca pour la plupart) peuvent donner l'illusion que le moindre projet est compliqué. Et même sans cette impression, il semble, au vu des TIPEs de certains de nos camarades, qu'il faut consacrer à minima quelques dixaines d'heures avant de pouvoir bien apréhender les premiers concepts. En réalité, **pour tous les élèves de Télécom,** qui ne sont plus complétement novice en mathématiques et en informatique, **il est possible de comprendre et de réaliser ses premiers modèles (par exemple de reconnaissance d'image) en seulement quelques heures sans connaissances préalables.**
 
 # **[Son premier projet: MLP et CNN](#son-premier-projet)**
 

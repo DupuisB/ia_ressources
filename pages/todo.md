@@ -13,11 +13,13 @@ Liste de choses à faire :
 - Remplacer l'exemple PyTorch pour les MLP par un tutoriel maison, ou au moins un meilleur. Expliquer les dataloader, datasets, tenseurs, ...
 - Ajouter plus de bibliothèques utiles
 - Ajouter les meilleurs CNN (ResNet, EfficientNet, ...), deja dans la page Concepts
+- Mette
 
 # [Accéder à des GPUs](/pages/gpu.md)
 - Bonus: etat du marché (pourquoi nvidia est si dominant, est-ce que ca va changer) ?
 
 # [Meilleurs outils IA](/pages/outils.md)
-- Tout
+- Modèles de génération d'images en ligne a compléter (je les connais pas trop)
+- Ajouter (encore) les meilleurs CNN, modèles de génération d'images en local, LLMs en local
 
 [Back to Home](../index.md)
