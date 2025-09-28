@@ -18,7 +18,7 @@ Bienvenue sur ce site web. Le but de ce site est de servir de **point d'entrée 
 - [Meilleurs outils IA](/pages/outils.md)
 - [Page de test](/pages/test.md)
 
-N'hésitez pas à nous contacter en cas d'erreur/oubli/suggestion.
+N'hésitez pas à envoyer un message en cas d'erreur/oubli/suggestion.
 
 - [Todo](/pages/todo.md)
 

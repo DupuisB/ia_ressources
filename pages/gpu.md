@@ -136,18 +136,20 @@ Une fois un notebook créer, vous pouvez choisir les paramètres de la machine s
 
 # [Utiliser un service cloud](#utiliser-un-service-cloud)
 
+> **Dernière mise à jour: Octobre 2024.**
+
 Les services cloud sont une solution pour accéder à des GPUs sans avoir à en acheter un. Ils sont payants, mais permettent d'accéder à des GPUs puissants sans avoir à investir dans une carte graphique.  
 Si vous avez des besoin précis et que vous souhaitez comparer les prix, vous pouvez utiliser [**Shadeform**](https://www.shadeform.ai/), un outil gratuit (mais qui demande une inscription) pour comparer les prix des différents services cloud.  
 Si vos besoins sont moins précis, voici nos recommandations:  
 
 ## Lambda Labs
-Comme service cloud professionnel, nous vous recommandons [**Lambda Labs**](https://lambdalabs.com/), qui propose des machines puissantes à des prix compétitifs (voir ci-dessous), déjà configurée pour les principales bibliothèques de deep learning. Un de ses avantages est sa capacité à **proposer des clusters de GPUs déja configurés** pour tourner efficacement dans la plupart des cas. Si vos besoins ne le demande pas, nous vous conseillons de rester sur des GPUs individuels, une architecture plus simple étant souvent moins sujette aux erreurs.  
+Comme service cloud professionnel, un bon chois [**Lambda Labs**](https://lambdalabs.com/), qui propose des machines puissantes à des prix compétitifs (voir ci-dessous), déjà configurée pour les principales bibliothèques de deep learning. Un de ses avantages est sa capacité à **proposer des clusters de GPUs déja configurés** pour tourner efficacement dans la plupart des cas. Si vos besoins ne le demande pas, il est conseillé de rester sur des GPUs individuels, une architecture plus simple étant souvent moins sujette aux erreurs.  
 Le service est également l'un des plus simples à mettre en place (interface web minimaliste), et est très fiable.  
-Un désavantage que nous avons pu constater et que la vitesse de transfert de données est parfois lente (40MB/s), ce qui peut être un problème pour les tâches nécessitant de transférer de grandes quantités de données.
+Un désavantage est que la vitesse de transfert de données est parfois lente (40MB/s), ce qui peut être un problème pour les tâches nécessitant de transférer de grandes quantités de données.
 
 ![Lambda Labs Pricing](../assets/images/lambda_pricing.png)
 
-Notez également que, bien que nous n'y ayons jamais eu recours, les retours sur le service client sont variables.
+Notez également que, bien que n'y ayant jamais eu recours personnellement, les retours sur le service client sont variables.
 
 ## Vast.ai
 [**Vast.ai**](https://vast.ai/) est une plateforme qui **met en relation des propriétaires de GPUs et des utilisateurs.** Vous pouvez ainsi louer des GPUs à des particuliers, ce qui peut être (bien) plus économique que de passer par un service cloud traditionnel. Par contre, la qualité du service est variable, et il est possible de tomber sur des machines mal configurées ou des propriétaires peu fiables. Il est donc recommandé de ne pas faire transiter de données sensibles par ce service.

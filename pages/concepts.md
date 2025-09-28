@@ -9,7 +9,7 @@ title: Concepts et technologies IA
 
 # **Introduction**
 Cette page présente les concepts et technologies de base utilisés en IA.
-Pour chaque technologie, nous allons essayer de vous donner une explication poussée, des exemples d'utilisation, des ressources pour aller plus loin et ce qui se fait de mieux dans le domaine (parfois en doublon avec les infos présentes sur la page [Se mettre au développement](/pages/dev.md)).
+Chaque technologie sera accompagnée d'une explication, des exemples d'utilisation, des ressources pour aller plus loin et ce qui se fait de mieux dans le domaine (parfois en doublon avec les infos présentes sur la page [Se mettre au développement](/pages/dev.md)).
 
 # **Liens rapides**
 - [Papers with code](https://paperswithcode.com/) Site référençant les articles de recherche en IA et les implémentations de ces articles. La section *Browse State-of-the-Art* permet de voir les modèles les plus performants pour chaque tâche (pas forcément les plus pratiques à utiliser). La section *Methods* fournit nottament les papiers de référence sur chaque sujet/technologie.
